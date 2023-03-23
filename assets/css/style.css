@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #d66f09 repeat;
   position: relative;
 }
 
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #965a00;
     height: 56px;
     line-height: 56px;
   }
